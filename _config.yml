@@ -1,0 +1,8 @@
+# GitHub Pages (Jekyll) settings for the public legal pages. The same .md
+# files are bundled in the app (pubspec assets) and shown in Profile → Terms &
+# Privacy. Copied to the public repo skaladdine/rollin-legal by
+# .github/workflows/pages.yml on push to main; its Pages builds them.
+title: Rollin
+description: Find training partners near you.
+baseurl: /rollin-legal
+theme: minima
